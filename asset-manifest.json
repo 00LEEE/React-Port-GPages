@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Port-Gpages/static/css/main.3dcda76d.css",
+    "main.js": "/React-Port-Gpages/static/js/main.a4fb64a8.js",
+    "static/js/787.99e06674.chunk.js": "/React-Port-Gpages/static/js/787.99e06674.chunk.js",
+    "static/media/Proj1.png": "/React-Port-Gpages/static/media/Proj1.63d0dcb1e55a42c311ea.png",
+    "static/media/Proj2.png": "/React-Port-Gpages/static/media/Proj2.63d0dcb1e55a42c311ea.png",
+    "static/media/Proj3.png": "/React-Port-Gpages/static/media/Proj3.63d0dcb1e55a42c311ea.png",
+    "static/media/Proj4.png": "/React-Port-Gpages/static/media/Proj4.63d0dcb1e55a42c311ea.png",
+    "static/media/Proj5.png": "/React-Port-Gpages/static/media/Proj5.63d0dcb1e55a42c311ea.png",
+    "static/media/Proj6.png": "/React-Port-Gpages/static/media/Proj6.63d0dcb1e55a42c311ea.png",
+    "index.html": "/React-Port-Gpages/index.html",
+    "main.3dcda76d.css.map": "/React-Port-Gpages/static/css/main.3dcda76d.css.map",
+    "main.a4fb64a8.js.map": "/React-Port-Gpages/static/js/main.a4fb64a8.js.map",
+    "787.99e06674.chunk.js.map": "/React-Port-Gpages/static/js/787.99e06674.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dcda76d.css",
+    "static/js/main.a4fb64a8.js"
+  ]
+}
